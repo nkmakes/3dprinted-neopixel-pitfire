@@ -8,11 +8,12 @@ Designed with Fusion 360, provided source files to make your own custom base.
 
 ## Render and photo of the project
 
-![Neopixel pitfire desk lamp LED ring ready](/images/neopixel_top.jpg)
+![3dprinted fire pit rgb desk lamp completed]()
+![3dprinted fire pit rgb desk lamp render](https://github.com/nkmakes/3dprinted-neopixel-pitfire/blob/master/img/pitfire_render.PNG)
 
 ## Schematics
 
-![Neopixel pitfire desk lamp LED ring cables]()
+![Neopixel pitfire desk lamp LED ring cables](https://github.com/nkmakes/3dprinted-neopixel-pitfire/blob/master/img/pitfire_schematic.JPG)
 
 
 #### White PLA flame test video
