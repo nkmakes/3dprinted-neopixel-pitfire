@@ -6,7 +6,10 @@ Fully 3dprintable fire pit rgb desk lamp, with a flame shaped light based around
 
 Designed with Fusion 360, provided source files to make your own custom base.
 
-## Render of the project
+## Photo and render of the project
+
+![3dprinted fire pit rgb desk lamp completed](https://github.com/nkmakes/3dprinted-neopixel-pitfire/blob/master/img/flames_principal.jpg)
+
 
 
 ![3dprinted fire pit rgb desk lamp render](https://github.com/nkmakes/3dprinted-neopixel-pitfire/blob/master/img/pitfire_render.PNG)
@@ -27,9 +30,6 @@ Designed with Fusion 360, provided source files to make your own custom base.
 ![Neopixel pitfire desk lamp LED ring cables](https://github.com/nkmakes/3dprinted-neopixel-pitfire/blob/master/img/pitfire_schematic.JPG)
 
 
-## Result
-
-![3dprinted fire pit rgb desk lamp completed]()
 
 #### White PLA flame test video
 https://www.youtube.com/embed/w1SFw8w_Evw
