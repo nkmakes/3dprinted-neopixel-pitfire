@@ -11,6 +11,17 @@ Designed with Fusion 360, provided source files to make your own custom base.
 ![3dprinted fire pit rgb desk lamp completed]()
 ![3dprinted fire pit rgb desk lamp render](https://github.com/nkmakes/3dprinted-neopixel-pitfire/blob/master/img/pitfire_render.PNG)
 
+## Components
+
+| number | Component                                        |
+| ------ | ------------------------------------------------ |
+| 1      | 16 led Neopixel ring                             |
+| 1      | esp32 30 pin dev board (LuaNode32)               |
+| 3      | broken female dupont wires(or two female-female) |
+| 1      | 2A microUSB cable                                |
+| 1      | 5V 2A USB power source                           |
+| 80 gr  | PLA filament                                     |
+
 ## Schematics
 
 ![Neopixel pitfire desk lamp LED ring cables](https://github.com/nkmakes/3dprinted-neopixel-pitfire/blob/master/img/pitfire_schematic.JPG)
