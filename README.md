@@ -8,7 +8,7 @@ Designed with Fusion 360, provided source files to make your own custom base.
 
 ## Photo and render of the project
 
-![3dprinted fire pit rgb desk lamp completed](https://github.com/nkmakes/3dprinted-neopixel-pitfire/blob/master/img/flames_principal.jpg)
+![3dprinted fire pit rgb desk lamp completed](https://github.com/nkmakes/3dprinted-neopixel-pitfire/blob/master/img/WLED-demo.jpg)
 
 
 
